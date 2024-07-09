@@ -82,8 +82,13 @@ const IndexPage = () => (
         style={{ marginBottom: `var(--space-3)` }}
       />
       <h1>
-        Welcome to <b>Gatsby!</b>
+        SELAMAT DATANG<b>SMA BINA ESA</b>
       </h1>
+      <h2>ANNISA NURUL F</h2>
+      <h2>ASTI SETIAWATI</h2>
+      <h2>SISKA SRI WAHYUNI</h2>
+      <h2>SITI NURLATIFAH</h2>
+      <h2>USAN SULASMI</h2>
       <p className={styles.intro}>
         <b>Example pages:</b>{" "}
         {samplePageLinks.map((link, i) => (
